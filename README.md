@@ -11,3 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![HitCount](http://hits.dwyl.com/micheleissa/https://githubcom/micheleissa.svg)](http://hits.dwyl.com/micheleissa/https://githubcom/micheleissa)
